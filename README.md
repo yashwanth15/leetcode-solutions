@@ -1,3 +1,5 @@
-# LeetCode and NeedCode Solutions
+# LeetCode and NeetCode Solutions
 
-I won't store the questions as it's a chore but you can find the problems using their names.
+Solutions for all the Data Structures & Algorithms problems I solved.
+
+You can find the questions by searching the file names on the internet.
